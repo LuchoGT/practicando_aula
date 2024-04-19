@@ -1,0 +1,19 @@
+.profile{
+    // background-color: yellow;
+    padding: 2rem 1rem;
+    span{
+        font-weight: 600;
+        font-size: 1.5rem;
+    }
+    &__container{
+        // background: red;
+        margin-top: 2rem;
+    }
+}
+
+input[type=file]{
+    background-color: green;
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+}
